@@ -33,7 +33,7 @@ As tags são elementos que definem a estrutura e o conteúdo de uma página web.
 Definir uma tag você precisa abrir e fechar um elemento (dessa forma "<h1></h2>"), sendo o segundo elementro o fechamento deve conter "/". 
 
 
-O "<h1>" é o elemento do titulo, que usamos para descrever um titulo. Existe também o h2 h3 h4... que são substitulos que responde uma hierarquia.
+O "h1" é o elemento do titulo, que usamos para descrever um titulo. Existe também o h2 h3 h4... que são substitulos que responde uma hierarquia.
 
 
 O proximo elemento é <p> que é usado para determinar um paragrafó com texto, e você pode utilizar outras tags dentro, respeitando a hierarquia.
