@@ -43,11 +43,11 @@ A tag "a" serve para você adicionar referencia para link, você pode refenciar 
 
 Existe tags que não repcisa de fechamento é o caso da <hr>, ela serve para quebrar linha.
 
-A tag "ur" serve para criar uma lista não ordenada em conjunto com a tag <li> que serve para listar os itens .
+A tag "ur" serve para criar uma lista não ordenada em conjunto com a tag "li" que serve para listar os itens .
 
-A tag "ol" serve para criar uma lista não ordenada em conjunto com a tag <li> que serve para listar os itens .
+A tag "ol" serve para criar uma lista não ordenada em conjunto com a tag li" que serve para listar os itens .
 
-As tags "strong" e <b> servem para dizer que tal palavra ou frase está em negrito
+As tags "strong" e "b" servem para dizer que tal palavra ou frase está em negrito
 
 As tags "em" e "i" servem para dizer que tal palavra ou frase está em itálico.
 
