@@ -7,6 +7,7 @@
   - [Tecnologias Usadas](#Tecnologias-Usadas)
   - [Sobre](#Sobre)
   - [Aula 1 Tags](#Aula-1-Tags)
+  - [Aula 2 Estrutura Básica HTML](#Aula-2-Estrutura-Básica)
   
   
 ## Tecnologias Usadas
@@ -22,8 +23,6 @@ Aprendendo Front-end com HTML5, CSS e JavaScript do zero ao avançado com aprend
 
 ## Aula 1 Tags
 
-
-### A primeira aula é sobre Tags que são utilizados no HTML
 
 
 ![imagem local](imagens_readme/Aula_1/escrevendo_html_no_VSCode.png)
@@ -60,4 +59,20 @@ Na Aula o professor propos aos alunos fizessem um exercicio para ratificar o apr
 A Aula é personalizado então você pode fazer do jeito que quiser.
 
 
-## Aula 2
+## Aula 2 Estrutura Básica
+
+
+A estrutura básica de HTML é o esqueleto de qualquer página web. Ela define como o conteúdo da página será organizado e interpretado pelo navegador:
+
+
+![imagem local](imagens_readme/Aula_2/estrutura_base_html.png)
+
+
+
+Para começar a explicação da estrutura iremos falar sobre "!DOCTYPE html". Ele deve ser o primeiro elemento da página e o objetivo dele é indicar ao navegador que o documento está usando HTML5. Seguindo para "html lang=pt-BR", ele é o elemento raiz da página, com o atributo lang indicando o idioma. O Head Contém metadados, como título, codificação de caracteres, estilos, scripts etc, "meta charset=UTF-8": Define o conjunto de caracteres, no caso o UTF-8 permite acentos e símbolos, seguindo para title Define o título que aparece na aba do navegador, entre outros. O body, onde vai o conteúdo visível da página, como textos, imagens, links, etc.
+
+Importante comentar que essa estrutura suas tags tem um valor semantico e não tem impacto visual, o retorno da pagina seria esse:
+
+
+![imagem local](imagens_readme/Aula_2/estrutura_base_html_retorno.png)
+
