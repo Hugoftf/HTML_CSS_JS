@@ -8,6 +8,7 @@
   - [Sobre](#Sobre)
   - [Aula 1 Tags](#Aula-1-Tags)
   - [Aula 2 Estrutura Básica HTML](#Aula-2-Estrutura-Básica)
+  - [ Aula 3 Introdução ao CSS](#Aula-3-Introdução-ao-CSS)
   
   
 ## Tecnologias Usadas
@@ -71,8 +72,28 @@ A estrutura básica de HTML é o esqueleto de qualquer página web. Ela define c
 
 Para começar a explicação da estrutura iremos falar sobre "!DOCTYPE html". Ele deve ser o primeiro elemento da página e o objetivo dele é indicar ao navegador que o documento está usando HTML5. Seguindo para "html lang=pt-BR", ele é o elemento raiz da página, com o atributo lang indicando o idioma. O Head Contém metadados, como título, codificação de caracteres, estilos, scripts etc, "meta charset=UTF-8": Define o conjunto de caracteres, no caso o UTF-8 permite acentos e símbolos, seguindo para title Define o título que aparece na aba do navegador, entre outros. O body, onde vai o conteúdo visível da página, como textos, imagens, links, etc.
 
+
 Importante comentar que essa estrutura suas tags tem um valor semantico e não tem impacto visual, o retorno da pagina seria esse:
 
 
 ![imagem local](imagens_readme/Aula_2/estrutura_base_html_retorno.png)
+
+
+## Aula 3 Introdução ao CSS
+
+
+O CSS3  é a linguagem usada para estilizar páginas HTML,  ou seja, para deixar bonito . Ele permite mudar cores, fontes, tamanhos, posicionamentos, e até criar animações. Existe três formas de usar o CSS, inline que é dentro da própria tag do html, interno que seria dentro do heard dentro do corpo do style e o externo que seria um arquivo com o formato css. 
+
+
+
+![imagem local](/imagens_readme/Aula_3/codigo_css.png)
+
+
+
+Nesse exemplo eu usei o CSS interno no heard. A estrutura básica é a propriedade html{ propriedade css : o tipo }. 
+
+O retorno para esse arquivo html e css:
+
+
+![imagem local](/imagens_readme/Aula_3/resultado.png)
 
